@@ -96,6 +96,7 @@ Autonomous system analyzing vulnerability data using **LLM reasoning**
 ## 📫 Connect
 
 * GitHub: https://github.com/Mx0M
+* Linkedin: https://www.linkedin.com/in/mukesh303
 * Email: mukesh@mx0m.com
 
 ---
