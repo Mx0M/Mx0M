@@ -8,11 +8,11 @@ With 10+ years of experience, I’ve led **cloud-native platforms**, **DevSecOps
 
 ---
 ## ⚡ What I Work On
-Distributed systems & cloud-native architecture
-DevSecOps platforms and secure SDLC
-Systems programming (Rust, WASM)
-AI-driven security (LLM-based reasoning systems)
-Developer tooling and automation
+* Distributed systems & cloud-native architecture
+* DevSecOps platforms and secure SDLC
+* Systems programming (Rust, WASM)
+* AI-driven security (LLM-based reasoning systems)
+* Developer tooling and automation
 
 ---
 
@@ -84,11 +84,11 @@ Autonomous system analyzing vulnerability data using **LLM reasoning**
 
 ##🧠 Engineering Thinking
 
-Prefer Rust for memory safety and predictable performance
-Design systems for scale, failure, and observability from day one
-Use concurrency + streaming architectures for large data processing
-Treat security as a first-class architectural concern
-Balance trade-offs between performance, complexity, and maintainability
+* Prefer Rust for memory safety and predictable performance
+* Design systems for scale, failure, and observability from day one
+* Use concurrency + streaming architectures for large data processing
+* Treat security as a first-class architectural concern
+* Balance trade-offs between performance, complexity, and maintainability
 
 ---
 ## 🏗️ Engineering Philosophy
