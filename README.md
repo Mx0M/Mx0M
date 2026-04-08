@@ -7,6 +7,14 @@ I architect and build **secure, scalable distributed systems** with a focus on *
 With 10+ years of experience, I’ve led **cloud-native platforms**, **DevSecOps transformations**, and **high-performance engineering initiatives**, and I’m currently exploring **AI-driven security and autonomous systems**.
 
 ---
+⚡ What I Work On
+Distributed systems & cloud-native architecture
+DevSecOps platforms and secure SDLC
+Systems programming (Rust, WASM)
+AI-driven security (LLM-based reasoning systems)
+Developer tooling and automation
+
+---
 
 ## 🔥 Featured Work
 
@@ -74,6 +82,14 @@ Autonomous system analyzing vulnerability data using **LLM reasoning**
 
 ---
 
+🧠 Engineering Thinking
+Prefer Rust for memory safety and predictable performance
+Design systems for scale, failure, and observability from day one
+Use concurrency + streaming architectures for large data processing
+Treat security as a first-class architectural concern
+Balance trade-offs between performance, complexity, and maintainability
+
+---
 ## 🏗️ Engineering Philosophy
 
 * Build for **scale and failure from day one**
