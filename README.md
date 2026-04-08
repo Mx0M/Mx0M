@@ -4,7 +4,7 @@
 
 I architect and build **secure, scalable distributed systems** with a focus on **performance, reliability, and real-world impact**.
 
-With 10+ years of experience, I’ve led **cloud-native platforms**, **DevSecOps transformations**, and **high-performance engineering initiatives**, and I’m currently exploring **AI-driven security and autonomous systems**.
+With 15+ years of experience, I’ve led **cloud-native platforms**, **DevSecOps transformations**, and **high-performance engineering initiatives**, and I’m currently exploring **AI-driven security and autonomous systems**.
 
 ---
 ## ⚡ What I Work On
